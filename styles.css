@@ -1,0 +1,6 @@
+h1,p{text-align:center;}
+label,input,select{display:block;
+width:100%}
+.inline{display:inline-block;width:80px}
+textarea,button {width:100%;}
+body{background-color:yellow;}
